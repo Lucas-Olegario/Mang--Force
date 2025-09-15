@@ -40,8 +40,8 @@ const animes = [
     genero: "Esporte / Drama",
     sinopse: "Após a derrota do Japão na Copa do Mundo, a federação de futebol decide criar o Blue Lock, um projeto radical para formar o melhor atacante do mundo. Reunindo 300 jovens talentosos em um centro de treinamento fechado, apenas um sairá vencedor. Yoichi Isagi, determinado a provar seu valor, enfrenta partidas intensas onde egoísmo, estratégia e ambição definem quem continuará sonhando e quem será eliminado para sempre.",
     capa: "img/blue-lock.jpeg",
-    fundo: "img/Blue-lock-fundo.jpeg",
-    audio: "audio/blue-lock.mp4"
+    fundo: "img/blue-lock-fundo.jpeg",
+    audio: "audio/Blue-lock.mp4"
   },
   {
     id: 5,
@@ -149,5 +149,6 @@ if (document.getElementById("tituloAnime")) {
     }
   }
 }
+
 
 
