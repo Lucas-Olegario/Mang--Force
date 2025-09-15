@@ -30,7 +30,7 @@ const animes = [
     sinopse: "Yuji Itadori, um estudante comum com força física fora do normal, acaba entrando no mundo dos feiticeiros jujutsu após ingerir o dedo de Ryomen Sukuna, o Rei das Maldições. Agora, dividindo seu corpo com a entidade mais temida da história, Yuji luta para proteger os inocentes enquanto enfrenta maldições poderosas, mistérios sombrios e o inevitável destino de ser sacrificado para destruir Sukuna de uma vez por todas.",
     capa: "img/jujutsu-kaisen.jpeg",
     fundo: "img/jujutsu-kaisen-fundo.jpeg",
-    audio: "audio/jujutsu.mp4"
+    audio: "audio/Jujutsu.mp4"
   },
   {
     id: 4,
@@ -40,7 +40,7 @@ const animes = [
     genero: "Esporte / Drama",
     sinopse: "Após a derrota do Japão na Copa do Mundo, a federação de futebol decide criar o Blue Lock, um projeto radical para formar o melhor atacante do mundo. Reunindo 300 jovens talentosos em um centro de treinamento fechado, apenas um sairá vencedor. Yoichi Isagi, determinado a provar seu valor, enfrenta partidas intensas onde egoísmo, estratégia e ambição definem quem continuará sonhando e quem será eliminado para sempre.",
     capa: "img/blue-lock.jpeg",
-    fundo: "img/blue-lock-fundo.jpeg",
+    fundo: "img/Blue-lock-fundo.jpeg",
     audio: "audio/blue-lock.mp4"
   },
   {
@@ -149,4 +149,5 @@ if (document.getElementById("tituloAnime")) {
     }
   }
 }
+
 
